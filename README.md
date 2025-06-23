@@ -1,1 +1,1 @@
-This is Simon Says End to End game Develop using JavaScript, Html, Css
+This is Simon Says End to End game Developed using JavaScript, Html, Css
